@@ -1,0 +1,4 @@
+collibra-core_200 >= 2.0.0
+collibra-importer >= 2.0.0
+PyYAML
+tabulate

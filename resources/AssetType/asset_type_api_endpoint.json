@@ -1,0 +1,9 @@
+{
+  "id": "24efcb25-c575-48cd-9956-a5a7c21bfd21",
+  "name": "API Endpoint",
+  "parent_id": "00000000-0000-0000-0000-000000031002",
+  "description": "Description of the new asset type",
+  "symbol_type": "NONE",
+  "display_name_enabled": false,
+  "rating_enabled": false
+}

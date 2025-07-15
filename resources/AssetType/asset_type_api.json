@@ -1,0 +1,9 @@
+{
+  "id": "51162873-2a43-402b-ab28-0369fde0dc9b",
+  "name": "REST API",
+  "parent_id": "00000000-0000-0000-0000-000000031301",
+  "description": "Description of the new asset type",
+  "symbol_type": "NONE",
+  "display_name_enabled": false,
+  "rating_enabled": false
+}

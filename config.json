@@ -1,0 +1,15 @@
+{
+  "community_name": "Open API to Collibra Integration",
+  "domains": {
+    "api_assets": "API Assets",
+    "code_values": "Code Values",
+    "data_assets": "Data Assets"
+  },
+  "assets": {
+    "api": "API",
+    "api_endpoint": "API Endpoint"
+  },
+  "url": "https://*******.collibra.com/rest/2.0",
+  "username": "USERNAME",
+  "password": "PASSWORD!"
+}
